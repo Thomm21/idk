@@ -1,0 +1,2 @@
+new Game.Achievement('Lucky you!','Have 7 777 777 cookies<q>Let\’s face it, it\’s not really luck.!</q>',[10,14],3);
+setInterval(function(){if(Game.cookies>7777776){Game.Win('Lucky you!')}3})
